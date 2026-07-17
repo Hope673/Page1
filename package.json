@@ -2,7 +2,7 @@
   "name": "claudeprofilecode",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hope673.github.io/portfolio_deplog",
+  "homepage": "https://hope673.github.io/portfolio_deplog/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
